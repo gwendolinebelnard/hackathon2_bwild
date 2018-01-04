@@ -1,0 +1,31 @@
+{
+  "name": "bwild",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "engines": {
+    "node": "6.11.1"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ALaureB/BWild"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "express-session": "^1.15.6",
+    "morgan": "~1.9.0",
+    "mysql": "^2.15.0",
+    "pug": "2.0.0-beta11",
+    "serve-favicon": "~2.4.5",
+    "session-file-store": "^1.1.2"
+  }
+}

@@ -1,0 +1,82 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+};
+  
+h1 {
+
+}
+
+h2 {
+	color: rgb(31, 165, 151);
+	font-weight: 700;
+}
+
+h3 {
+	color: #f9a02e;
+	font-weight: 700;
+	padding-bottom: 15px;
+}
+
+h4 {
+	color: rgb(31, 165, 151);
+}
+
+a {
+
+}
+
+a:hover {
+
+}
+
+
+.btn {
+	margin: 10px;
+	color: #ffffff;
+	background-color: #f9a02e;
+	font-size: 1.2em;
+}
+
+.btn:hover {
+	color: #ffffff;
+	background-color: #f9a02e;
+	opacity: 0.8;
+	transition: .8s ease;
+}
+
+
+.important {
+
+}
+
+.warning {
+	color: red;
+	font-weight: bold;
+}
+
+
+/* Surlignage personnalisé */
+
+/*::selection{
+	background-color: #012051;
+	color: white;
+}
+
+::-moz-selection {
+	background-color: #012051;
+	color: white;
+} */
+
+/*Media queries*/
+
+@media screen and (max-width: 1200px) {
+
+}
+
+@media screen and (min-width: 489px) {
+
+}
+
+@media screen and (min-width: 768px) {
+
+}
